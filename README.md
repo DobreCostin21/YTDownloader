@@ -1,14 +1,14 @@
 # Requirements
 
-NodeJS 16.0.0 or higher - `https://nodejs.org/en/` 
+**NodeJS 16.0.0 or higher** - `https://nodejs.org/en/` 
 
-YTDL - run `npm i -g ytdl` in an command prompt with node installed 
+**YTDL** - run `npm i -g ytdl` in an command prompt with node installed 
 
-FFMPEG - watch this `https://www.youtube.com/watch?v=IECI72XEox0`
+**FFMPEG** - watch this `https://www.youtube.com/watch?v=IECI72XEox0`
 
 # Tutorial
 
-Select a drive (we will use **c:/** which is recommended because thats where most important programs are)
+Select a drive (we will use `c:/` which is recommended because thats where most important programs are)
 
 Create a folder in the drive called PATH_Programs (you should already have it if you watched the ffmpeg tutorial)
 
@@ -18,7 +18,7 @@ Add the folder to PATH VARIABLES (should already be done if you watched the ffmp
 
 And Done!
 
-Go into a command prompt in the directory you like (navigate through directories using `cd ./example/media/audio` )
+Go into a command prompt in the directory you like (navigate through directories using `cd ./example/media/audio`)
 
 Type `download` and hit enter!
 
