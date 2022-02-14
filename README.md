@@ -18,7 +18,7 @@ Add the folder to PATH VARIABLES (should already be done if you watched the ffmp
 
 And Done!
 
-Go into a command prompt in the directory you like (navigate through directories using `cd ./example/media/audio`)
+Go into a command prompt in the directory you like (navigate through directories using `cd ./example/media/audio` )
 
 Type `download` and hit enter!
 
