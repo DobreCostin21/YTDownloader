@@ -4,7 +4,7 @@
 
 **YTDL** - run `npm i -g ytdl` in an command prompt with node installed
 
-**FFMPEG** - watch this `https://www.youtube.com/watch?v=IECI72XEox0`
+**FFMPEG** - watch this **https://www.youtube.com/watch?v=IECI72XEox0** (if not installed)
 
 # Tutorial
 
